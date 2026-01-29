@@ -28,10 +28,11 @@ Model Accuracy: 100% (on sample dataset)
 Accuracy may vary with larger or real-world datasets.
 
 📸 Screenshots
+### 📋 Dataset Preview – Sample data with study hours, attendance, and pass/fail labels
 ![Dataset Preview](images/dataset_preview.png)
-
+### 📈 Model Visualization – Scatter plot showing performance patterns
 ![Data Visualization](images/visualization.png)
-
+### ✅ Model Accuracy Output – Confusion matrix and accuracy score
 ![Model Accuracy](images/accuracy_output.png)
 
 🚀 How to Run the Project

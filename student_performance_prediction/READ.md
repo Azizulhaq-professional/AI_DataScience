@@ -20,7 +20,8 @@ Target:
 🤖 Model Used
 Logistic Regression
 Why Logistic Regression?
- Logistic Regression is suitable for binary classification problems and is easy to interpret for beginners.
+
+Logistic Regression is suitable for binary classification problems and is easy to interpret for beginners.
 
 📊 Results
 Model Accuracy: 100% (on sample dataset)

@@ -10,21 +10,29 @@
 9. Visualization
 
 🧪 Dataset Description
+
 Features:
+
 - Study_Hours: Number of hours studied per day
+  
 - Attendance: Attendance percentage
 
 Target:
+
 - Pass (1 = Pass, 0 = Fail)
 
 🤖 Model Used
+
 Logistic Regression
+
 Why Logistic Regression?
 
 Logistic Regression is suitable for binary classification problems and is easy to interpret for beginners.
 
 📊 Results
+
 Model Accuracy: 100% (on sample dataset)
+
 Accuracy may vary with larger or real-world datasets.
 
 📸 Screenshots
@@ -36,6 +44,7 @@ Accuracy may vary with larger or real-world datasets.
 ![Model Accuracy](images/accuracy_output.png)
 
 🚀 How to Run the Project
+
 1. Clone the repository
 2. Open the notebook in Google Colab or Jupyter
 3. Run all cells step by step

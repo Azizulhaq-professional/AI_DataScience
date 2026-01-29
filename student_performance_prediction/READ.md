@@ -29,7 +29,9 @@ Accuracy may vary with larger or real-world datasets.
 
 📸 Screenshots
 ![Dataset Preview](images/dataset_preview.png)
+
 ![Data Visualization](images/visualization.png)
+
 ![Model Accuracy](images/accuracy_output.png)
 
 🚀 How to Run the Project
@@ -44,5 +46,7 @@ Accuracy may vary with larger or real-world datasets.
 - Add cross-validation
 
 🧑‍💻 Author
+
 Aziz ul haq
+
 Machine Learning & Cybersecurity Learner

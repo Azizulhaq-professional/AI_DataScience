@@ -37,7 +37,7 @@ Welcome to my data preprocessing project! This notebook walks through every esse
 ![Train Test Split](images/train_test_split_shapes.PNG)
 
 ### 🟨 Train Set Preview  
-![Train Set Preview](images/train_test_preview.png)
+![Train Set Preview](images/train_test_preview.PNG)
 
 ### 🟧 Test Set Preview  
 ![Test Set Preview](images/test_set_preview.PNG)

@@ -56,7 +56,5 @@ Accuracy may vary with larger or real-world datasets.
 - Add cross-validation
 
 🧑‍💻 Author
-
 Aziz ul haq
-
 Machine Learning & Cybersecurity Learner
